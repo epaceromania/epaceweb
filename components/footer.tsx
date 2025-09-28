@@ -51,7 +51,7 @@ export function Footer() {
               <li className="text-slate-300">
                 <span className="font-medium text-white">Email:</span>
                 <br />
-                contact@epace.ro
+                epace@partidulepace.ro
               </li>
               <li className="text-slate-300">
                 <span className="font-medium text-white">Locație:</span>
