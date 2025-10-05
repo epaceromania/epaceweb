@@ -184,6 +184,12 @@ export default function DespreNoiPage() {
                 Devino Membru
               </button>
             </a>
+            </a>
+  <a href="/ECHIPA%20PARTIDULUI%20EPACE.pdf" target="_blank" rel="noopener noreferrer">
+    <button className="bg-white text-primary px-8 py-4 rounded-full font-semibold hover:bg-gray-50 transition-colors shadow-lg hover:shadow-xl transform hover:scale-105">
+      Echipa Epace
+    </button>
+  </a>
           </div>
         </div>
       </section>
